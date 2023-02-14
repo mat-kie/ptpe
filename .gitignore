@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+
+# do not track the documents folder containing the IEEE standards (802.3-2018 & 1588-2019).
+# if you want your own versions you have to get them from the IEEE.
+documents
+
+# do not track build folder
+build
